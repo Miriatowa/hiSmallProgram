@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "邀请有奖",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "sliding-notice": "/components/slidingNotice"
+  }
+}

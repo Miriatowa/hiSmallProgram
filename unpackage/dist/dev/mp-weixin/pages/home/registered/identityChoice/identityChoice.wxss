@@ -1,0 +1,65 @@
+
+.identityBox.data-v-40a103c9{
+	width: 670rpx;
+	margin: 100rpx auto 0rpx ;
+}
+.invitateImg.data-v-40a103c9{
+	width: 200rpx;
+	height: 200rpx;
+	margin-left: 235rpx;
+	margin-bottom: 80rpx;
+	margin-top: 100rpx;
+}
+button.data-v-40a103c9:after {
+    border: none;
+}
+.idenyityBtn.data-v-40a103c9{
+	width: 572rpx;
+	height: 80rpx;
+	background-color: #e4f0fc;
+	color: #44a1ff;
+	border-radius: 10rpx;
+	text-align: center;
+	line-height: 80rpx;
+	margin-top: 50rpx;
+	margin-left: 50rpx;
+	border: 2prx solid #E4F0FC;
+}
+.inputInvite.data-v-40a103c9{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	background-color: #FFF;
+	border-radius: 4px;
+	border: 1px solid #DCDFE6;
+	box-sizing: border-box;
+	color: #606266;
+	height: 40px;
+	line-height: 40px;
+	outline: 0;
+	padding: 0 15px;
+	margin-left: 50rpx;
+}
+.tips.data-v-40a103c9{
+	font-size: 24rpx;
+	color: #909399;
+	margin-top: 100rpx;
+}
+.f_item.data-v-40a103c9{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 100rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #303133;
+	border-bottom: 2rpx solid #EEEEEE;
+}
+.f_item picker.data-v-40a103c9{
+	margin: 0 auto;
+}
+

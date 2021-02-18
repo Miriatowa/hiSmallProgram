@@ -1,0 +1,226 @@
+
+.headNav.data-v-2b0a990c {
+	width: 670rpx;
+	height: 67rpx;
+	margin: 10rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	color: #666666;
+}
+.swiper.data-v-2b0a990c {
+	height: 250rpx;
+	width: 670rpx;
+	margin: 20rpx auto;
+}
+swiper-item image.data-v-2b0a990c {
+	height: 250rpx;
+	width: 670rpx;
+	border-radius: 16rpx;
+}
+.activeNavItem.data-v-2b0a990c {
+	border-bottom: 4rpx solid #99CCFF;
+}
+.classification.data-v-2b0a990c {
+	border-top: 10rpx solid #eeeeee;
+	border-bottom: 2rpx solid #EEEEEE;
+	height: 100rpx;
+	padding: 0rpx 40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #606266;
+	font-size: 28rpx;
+}
+.filterBox.data-v-2b0a990c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.filterBox picker.data-v-2b0a990c{
+	margin-left: 30rpx;
+}
+.classification ._div.data-v-2b0a990c {
+	height: 100rpx;
+	line-height: 100rpx;
+	color: #909399;
+}
+.isSelectTags.data-v-2b0a990c {
+	font-size: 34rpx;
+	font-weight: 600;
+	margin-right: 20rpx;
+	color: #303133;
+}
+.noSelectTags.data-v-2b0a990c {
+	margin-right: 20rpx;
+	color: #606266;
+}
+.icon-youxiatianchong.data-v-2b0a990c {
+	font-size: 14rpx;
+	margin-left: 6rpx;
+	color: #909399;
+}
+.navagitorBar.data-v-2b0a990c {
+	width: 670rpx;
+	margin: 40rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: end;
+	-webkit-align-items: flex-end;
+	        align-items: flex-end;
+}
+.navagitorBar navigator image.data-v-2b0a990c{
+	width: 90rpx;
+	height: 90rpx;
+}
+.navagitorBar navigator ._div.data-v-2b0a990c {
+	text-align: center;
+	font-size: 24rpx;
+	color: #808080;
+}
+.cardItem.data-v-2b0a990c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 670rpx;
+	height: 350rpx;
+	margin: 20rpx auto;
+	border: 2rpx solid #F8F8F8;
+	box-shadow: 6rpx -6rpx 5rpx #F8F8F8 inset;
+	padding: 20rpx 10rpx 0rpx;
+	border-radius: 10rpx;
+}
+.cardItem_r image.data-v-2b0a990c {
+	width: 190rpx;
+	height: 300rpx;
+	border-radius: 10rpx;
+}
+.cardItem_l.data-v-2b0a990c {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 300rpx;
+	margin-left: 15rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.cardItem_l1.data-v-2b0a990c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.cardItem_l1 ._span.data-v-2b0a990c:first-child {
+	font-size: 36rpx;
+}
+.cardItem_l1 ._span.data-v-2b0a990c:nth-child(2) {
+	font-size: 22rpx;
+	color: #909399;
+	margin-left: 16rpx;
+}
+.cardItem_l2.data-v-2b0a990c {
+	font-size: 28rpx;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	color: #C0C4CC;
+}
+.cardItem_l3.data-v-2b0a990c {
+	width: 148rpx;
+	height: 60rpx;
+	background-color: #99ccff;
+	color: #FFFFFF;
+	font-size: 26rpx;
+	text-align: center;
+	line-height: 60rpx;
+	border-radius: 10rpx;
+}
+.noMOreTips.data-v-2b0a990c{
+	text-align: center;
+	margin-top: 10rpx;
+	font-size: 24rpx;
+	color: #C0C4CC;
+}
+.slide_img.data-v-2b0a990c{
+	width: 100rpx;
+	height: 100rpx;
+	-webkit-animation: shake-data-v-2b0a990c 3s linear infinite;
+	        animation: shake-data-v-2b0a990c 3s linear infinite;
+}
+.cardImg.data-v-2b0a990c{
+	position: fixed;
+	top: calc(50% - 400rpx);
+	left: calc(50% - 275rpx);
+}
+.cardImg image.data-v-2b0a990c{
+	width: 550rpx;
+	height: 550rpx;
+}
+.cardImg ._div.data-v-2b0a990c{
+	
+	font-weight: 600;
+	color: #ffffff;
+	text-align: right;
+}
+.icon-shanchu.data-v-2b0a990c{
+	font-size: 50rpx;
+}
+@-webkit-keyframes shake-data-v-2b0a990c {
+70%, 80% {
+    -webkit-transform: rotate(7deg);
+            transform: rotate(7deg);
+}
+75% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg);
+}
+65%,
+  85% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+}
+@keyframes shake-data-v-2b0a990c {
+70%, 80% {
+    -webkit-transform: rotate(7deg);
+            transform: rotate(7deg);
+}
+75% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg);
+}
+65%,
+  85% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+}
+

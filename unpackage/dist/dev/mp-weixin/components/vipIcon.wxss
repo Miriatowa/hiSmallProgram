@@ -1,0 +1,28 @@
+
+.yearVip.data-v-1ad547cb{
+	width: 106rpx;
+	height: 30rpx;
+	line-height: 30rpx;
+	font-size: 22rpx;
+	background-color: #ed4747;
+	color: #ffffff;
+	border-radius: 15rpx;
+	text-align: center;
+	margin-left: 20rpx;
+}
+.monthVip.data-v-1ad547cb{
+	width: 106rpx;
+	height: 30rpx;
+	line-height: 30rpx;
+	font-size: 22rpx;
+	background-color: #44a1ff;
+	color: #ffffff;
+	border-radius: 15rpx;
+	text-align: center;
+	margin-left: 20rpx;
+}
+.icon-vip.data-v-1ad547cb{
+		display: inline;
+		margin-right: 6rpx;
+}
+

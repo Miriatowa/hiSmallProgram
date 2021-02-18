@@ -1,0 +1,1 @@
+<view class="data-v-de7222b2"><block wx:if="{{maskShow}}"><view class="modal _div data-v-de7222b2"><view class="panel _div data-v-de7222b2"><slot></slot></view></view></block></view>

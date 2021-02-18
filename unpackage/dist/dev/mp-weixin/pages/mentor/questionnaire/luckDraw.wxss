@@ -1,0 +1,99 @@
+
+.ld_main.data-v-460a4c66 {
+	position: relative;
+	height: 1800rpx;
+	background-image: url('https://pic.job2020.cn/%E6%8A%BD%E5%A5%96_9.png');
+	background-repeat: no-repeat;
+	background-origin: left top;
+	background-size: 100% 100%;
+}
+.ld_myRec.data-v-460a4c66 {
+	position: absolute;
+	left: 220rpx;
+	top: 500rpx;
+	width: 300rpx;
+	height: 70rpx;
+}
+.id_level.data-v-460a4c66 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	position: absolute;
+	left: 40rpx;
+	top: 630rpx;
+	width: 670rpx;
+	color: #ffffff;
+}
+.id_level_active.data-v-460a4c66 {
+	font-weight: 600;
+	color: #54c2fe;
+	font-size: 36rpx;
+}
+.ld_container.data-v-460a4c66 {
+	position: absolute;
+	left: 85rpx;
+	top: 700rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	width: 600rpx;
+	height: 600rpx;
+}
+.ld_item_img.data-v-460a4c66 {
+	margin-top: 10rpx;
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 30rpx;
+}
+.ld_item.data-v-460a4c66 {
+	width: 170rpx;
+	height: 170rpx;
+	border-radius: 30rpx;
+	line-height: 200rpx;
+	text-align: center;
+	background-color: #ffffff;
+	box-shadow: 0 10rpx 10rpx 2rpx #f5f1ee;
+	margin-right: 10rpx;
+	margin-top: 10rpx;
+}
+.ld_item.data-v-460a4c66:nth-child(5) {
+	background-color: #5aa6ff;
+	box-shadow: 0 16rpx 2rpx 0rpx #2f8fff;
+	color: #ffffff;
+	font-size: 40rpx;
+	text-wrap: wrap
+}
+.active.data-v-460a4c66 {
+	background-color: #f5f1ee;
+}
+.ld_notice.data-v-460a4c66 {
+	position: absolute;
+	left: 40rpx;
+	top: 1420rpx;
+	width: 670rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	border-radius: 40rpx;
+	font-size: 26rpx;
+	color: #849eec;
+	text-align: center;
+	background-color: #0538d9;
+	overflow: hidden;
+}
+.id_noticeAct.data-v-460a4c66 {
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	margin-top: -30rpx;
+}
+

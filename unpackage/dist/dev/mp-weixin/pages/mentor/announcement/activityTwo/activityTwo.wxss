@@ -1,0 +1,70 @@
+
+.main.data-v-04a766c8{
+	position: relative;
+	height: 100vh;
+	background-image: url('https://pic.job2020.cn/%E6%8A%BD%E7%AD%BE_3.png');
+	background-repeat: no-repeat;
+	background-origin: left top;
+	background-size: 100% 100%;
+}
+.icon-xiangzuo.data-v-04a766c8{
+	color: #000000;
+	font-size: 40rpx;
+	font-weight: 600;
+	position: fixed;
+	left: 40rpx;
+	top: 25px;
+}
+.slide_img.data-v-04a766c8{
+	position: absolute;
+	left: 125rpx;
+	top: 250rpx;
+	width: 500rpx;
+	height: 1000rpx;
+	-webkit-animation: shake-data-v-04a766c8 3s linear infinite;
+	        animation: shake-data-v-04a766c8 3s linear infinite;
+}
+.modal.data-v-04a766c8 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  background: rgba(0, 0, 0, 0.6);
+}
+.mask_img.data-v-04a766c8{
+	width: 100vw;
+	height: 100vh;
+}
+@-webkit-keyframes shake-data-v-04a766c8 {
+70%, 80% {
+    -webkit-transform: rotate(7deg);
+            transform: rotate(7deg);
+}
+75% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg);
+}
+65%,
+  85% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+}
+@keyframes shake-data-v-04a766c8 {
+70%, 80% {
+    -webkit-transform: rotate(7deg);
+            transform: rotate(7deg);
+}
+75% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg);
+}
+65%,
+  85% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+}
+

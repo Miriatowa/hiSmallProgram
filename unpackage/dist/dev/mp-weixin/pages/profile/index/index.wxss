@@ -1,0 +1,142 @@
+
+.headBackground{
+	height: 300rpx;
+	width: 100%;
+	background-color: #44a1ff;
+	border-radius: 0rpx 0rpx 150rpx 150rpx;
+	position: relative;
+}
+.personalCard{
+	width: 670rpx;
+	height: 360rpx;
+	margin: 25rpx auto 0;
+	border-radius: 10rpx;
+	position: absolute;
+	background-color: #FFFFFF;
+	border: 2rpx solid #F8F8F8;
+	box-shadow: -4rpx -4rpx 3rpx #F8F8F8 inset;
+	left: 40rpx;
+	top: 0;
+	z-index: 999;
+}
+.card_top{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 50rpx;
+}
+.card_tl{
+	height: 120rpx;
+	width: 120rpx;
+	border-radius: 50%;
+	margin-left: 20rpx;
+	border: 2rpx solid #F8F8F8;
+}
+.card_bottom{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	height: 56rpx;
+	line-height: 56rpx;
+	margin: 50rpx 20rpx 0rpx 50rpx;
+}
+.card_bottom ._div{
+	width: 220rpx;
+}
+.vipBox{
+	height: 32rpx;
+	font-size: 24rpx;
+	color: #999999;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.card_mes{
+	margin-left: 20rpx;
+}
+.nickname{
+	font-size: 36rpx;
+	margin-top: 10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.myResume{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.myResume ._div{
+	font-size: 24rpx;
+	color: #FFFFFF;
+	width: 180rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	background-color: #ff9470;
+	text-align: center;
+	border-radius: 25rpx;
+	margin-top: 10rpx;
+}
+.myResume image{
+	width: 60rpx;
+	height: 60rpx;
+	margin-left: 25rpx;
+}
+.card_tr{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.newMes{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: right;
+	margin-right: 20rpx;
+}
+.inviteImg{
+	width: 100%;
+	/* margin: 0 auto; */
+}
+.jobHelp{
+	width: 670rpx;
+	margin: 90rpx auto 0rpx;
+}
+.other{
+	width: 670rpx ;
+	margin: 0 auto;
+}
+.other navigator{
+	height: 90rpx;
+	line-height: 90rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.other navigator icon ._span{
+	margin-left: 20rpx ;
+	font-size: 24rpx;
+	font-weight: 300;
+}
+.fontStyle{
+	font-size: 40rpx;
+	font-weight: 500;
+}
+

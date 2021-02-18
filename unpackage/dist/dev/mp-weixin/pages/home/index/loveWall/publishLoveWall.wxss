@@ -1,0 +1,67 @@
+
+.index.data-v-4ef1053c{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.head ._div.data-v-4ef1053c, picker.data-v-4ef1053c{
+	height: 100rpx;
+	line-height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	border-bottom: 2rpx solid #DCDFE6;
+}
+.head ._div input.data-v-4ef1053c{
+	height: 100rpx;
+	line-height: 100rpx;
+	margin-left: 18rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.icon-didian.data-v-4ef1053c{
+	display: inline;
+	margin-right: 18rpx;
+	color: #ff74ad;
+}
+.icon-letter.data-v-4ef1053c{
+	display: inline;
+	margin-right: 18rpx;
+	color: #ff74ad;
+}
+textarea.data-v-4ef1053c{
+	padding-top: 20rpx;
+	padding-left: 10rpx;
+	color: #606266;
+	font-size: 28rpx;
+	width: 100%;
+}
+.anonymous.data-v-4ef1053c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 20rpx;
+	padding-top: 10rpx;
+	border-top: 2rpx solid #DCDFE6;
+	font-size: 28rpx;
+}
+.anonymous switch.data-v-4ef1053c{
+	-webkit-transform: scale(0.6);
+	        transform: scale(0.6);
+}
+.pubBtn.data-v-4ef1053c{
+	width: 570rpx;
+	height: 90rpx;
+	line-height: 90rpx;
+	margin: 100rpx auto 0 ;
+	background-color: #ff74ad;
+	color: #FFFFFF;
+	border-radius: 45rpx;
+}
+

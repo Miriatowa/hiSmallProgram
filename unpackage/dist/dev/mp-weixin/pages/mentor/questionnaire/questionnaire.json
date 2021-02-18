@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "调查问卷",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "backgroundColor": "#FFFFFF",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

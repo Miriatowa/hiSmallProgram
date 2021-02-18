@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "举报",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "upload-img": "/components/uploadImg",
+    "bottom-btn": "/components/bottomBtn"
+  }
+}

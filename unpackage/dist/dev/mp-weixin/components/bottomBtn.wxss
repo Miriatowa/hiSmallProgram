@@ -1,0 +1,19 @@
+
+.btn.data-v-253bdd06{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 100rpx;
+	width: 100%;
+	background-color: #44a1ff;
+	border:2rpx solid  #44a1ff;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 100rpx;
+	border-radius: 4px;
+}
+.btn.data-v-253bdd06:hover{
+	background-color: #66b1ff;
+	border:2rpx solid  #66b1ff;
+}
+

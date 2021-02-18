@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "表白墙",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "info-card": "/components/infoCard",
+    "vip-icon": "/components/vipIcon"
+  }
+}

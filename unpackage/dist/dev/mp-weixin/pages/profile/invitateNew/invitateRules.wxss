@@ -1,0 +1,23 @@
+
+.ir_main.data-v-4fbf6ce6{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.ir_title.data-v-4fbf6ce6{
+	height: 100rpx;
+	line-height: 100rpx;
+	font-weight: 600;
+	text-align: center;
+	color: #303133;
+}
+.ir_item.data-v-4fbf6ce6{
+	margin-bottom: 40rpx;
+	color: #606266;
+}
+.ir_content.data-v-4fbf6ce6{
+	margin-top: 20rpx;
+	font-size: 26rpx;
+	text-indent: 64rpx;
+	color: #909399;
+}
+

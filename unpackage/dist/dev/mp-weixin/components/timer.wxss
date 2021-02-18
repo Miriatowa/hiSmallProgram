@@ -1,0 +1,78 @@
+
+.timer.data-v-de0b2ecc{
+	position: fixed;
+	right: 0;
+	top: 30%;
+}
+.timer image.data-v-de0b2ecc{
+	width: 80rpx;
+	height: 80rpx;
+	margin-bottom: -20rpx;
+}
+.timer progress.data-v-de0b2ecc{
+	width: 100rpx;
+}
+.timerText.data-v-de0b2ecc{
+	 background: rgba(0, 0, 0, 0.6);
+	 width: 100rpx;
+	 font-size: 18rpx;
+	 margin-top: -10rpx;
+	 padding-top: 15rpx;
+	 color: #ffffff;
+	 border-radius: 10rpx;
+	 text-align: center;
+}
+/* 弹出卡片样式 */
+.cardImg.data-v-de0b2ecc{
+	position: fixed;
+	top: calc(50% - 275rpx);
+	left: calc(50% - 275rpx);
+	-webkit-animation: shake-data-v-de0b2ecc 3s linear infinite;
+	        animation: shake-data-v-de0b2ecc 3s linear infinite;
+}
+.cardImg image.data-v-de0b2ecc{
+	width: 550rpx;
+	height: 550rpx;
+}
+.cardImg ._div.data-v-de0b2ecc{
+	width: 300rpx;
+	height: 65rpx;
+	background: -webkit-linear-gradient(#fde8b1,#fda949);
+	background: linear-gradient(#fde8b1,#fda949);
+	text-align: center;
+	line-height: 65rpx;
+	border-radius: 32rpx;
+	color: #89622b;
+	margin: 0 auto;
+}
+@-webkit-keyframes shake-data-v-de0b2ecc {
+70%, 80% {
+    -webkit-transform: rotate(7deg);
+            transform: rotate(7deg);
+}
+75% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg);
+}
+65%,
+  85% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+}
+@keyframes shake-data-v-de0b2ecc {
+70%, 80% {
+    -webkit-transform: rotate(7deg);
+            transform: rotate(7deg);
+}
+75% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg);
+}
+65%,
+  85% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+}
+

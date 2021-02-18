@@ -1,0 +1,90 @@
+{
+  "pages": [
+    "pages/mentor/mentor/mentor",
+    "pages/home/index/index",
+    "pages/merchants/merchants/merchants",
+    "pages/profile/index/index",
+    "pages/mentor/questionnaire/questionnaire",
+    "pages/mentor/questionnaire/luckDraw",
+    "pages/mentor/schoolList/schoolList",
+    "pages/mentor/schoolList/rudes",
+    "pages/profile/feedback/feedback",
+    "pages/profile/personalPage/personalPage",
+    "pages/profile/personalPage/editPersonal",
+    "pages/profile/personalPage/addTags",
+    "pages/home/registered/identityChoice/identityChoice",
+    "pages/home/registered/perfectInformationOne/perfectInformationOne",
+    "pages/home/registered/perfectInformationTwo/perfectInformationTwo",
+    "pages/home/registered/perfectInformationThree/perfectInformationThree",
+    "pages/merchants/merchants/merchantsInfo/merchantsInfo",
+    "pages/merchants/merchants/merchantsInfo/merchantsComment",
+    "pages/mentor/mentorDetail/mentorDetail",
+    "pages/profile/invitateNew/invitateNew",
+    "pages/profile/invitateNew/invitateRules",
+    "pages/merchants/addMerchants/addMerchants",
+    "pages/profile/buyCredits/buyCredits",
+    "pages/profile/purchaseVip/purchaseVip",
+    "pages/profile/mySocial/mySocial",
+    "pages/profile/myMentor/myMentor",
+    "pages/profile/signIn/signIn",
+    "pages/profile/integralSubsidiary/integralSubsidiary",
+    "pages/profile/myCollection/myCollection",
+    "pages/home/index/toReport",
+    "pages/home/index/loveWall/loveWall",
+    "pages/home/index/loveWall/publishLoveWall",
+    "pages/mentor/announcement/announcement",
+    "pages/mentor/announcement/announcementDetail",
+    "pages/mentor/announcement/activityOne/activityOne",
+    "pages/mentor/announcement/activityOne/colRules",
+    "pages/home/index/interestCircle/interestCircle",
+    "pages/home/index/interestCircle/publishInterest",
+    "pages/merchants/merchants/merchantsInfo/voteDetail",
+    "pages/profile/systemsNews/systemsNews",
+    "pages/mentor/businessReview/businessReview",
+    "pages/mentor/businessReview/editReview",
+    "pages/mentor/businessReview/addBusiness",
+    "pages/mentor/announcement/activityOne/answerQuestions",
+    "pages/mentor/announcement/activityTwo/activityTwo",
+    "pages/mentor/announcement/activityThree/activityThree"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Hi情报局",
+    "navigationBarBackgroundColor": "#44a1ff",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#44a1ff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/mentor/mentor/mentor",
+        "iconPath": "static/fonts/tabbar/company.png",
+        "selectedIconPath": "static/fonts/tabbar/company-sel.png",
+        "text": "就业"
+      },
+      {
+        "pagePath": "pages/home/index/index",
+        "iconPath": "static/fonts/tabbar/index.png",
+        "selectedIconPath": "static/fonts/tabbar/index-sel.png",
+        "text": "社交"
+      },
+      {
+        "pagePath": "pages/merchants/merchants/merchants",
+        "iconPath": "static/fonts/tabbar/shop.png",
+        "selectedIconPath": "static/fonts/tabbar/shop-sel.png",
+        "text": "周边"
+      },
+      {
+        "pagePath": "pages/profile/index/index",
+        "iconPath": "static/fonts/tabbar/personal.png",
+        "selectedIconPath": "static/fonts/tabbar/personal-sel.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

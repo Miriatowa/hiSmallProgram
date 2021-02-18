@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的招呼",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "head-select": "/components/headSelect",
+    "search": "/components/uni-search-bar/uni-search-bar",
+    "vip-icon": "/components/vipIcon"
+  }
+}

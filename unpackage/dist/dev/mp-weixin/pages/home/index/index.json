@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "社交",
+  "usingComponents": {
+    "mask": "/components/mask",
+    "vip-icon": "/components/vipIcon",
+    "sliding-notice": "/components/slidingNotice"
+  }
+}

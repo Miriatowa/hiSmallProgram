@@ -1,0 +1,209 @@
+
+.backImg{
+	width: 100%;
+	height: 300rpx;
+	position: relative;
+	left: 0;
+	top: 0;
+	z-index: 1;
+}
+.schoolList{
+	width: 670rpx;
+	margin: 0 auto;
+	z-index: 99;
+	position: absolute;
+	left: 40rpx;
+	top: 10%;
+}
+.rankingRules{
+	margin-left: 520rpx;
+	font-size: 22rpx;
+	width: 150rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	border-radius: 20rpx;
+	background-color: #316188;
+	color:#f1f1f1;
+	text-align: center;
+}
+.listType{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	z-index: 99;
+	font-weight: 600;
+	color: #FFFFFF;
+}
+.topList{
+	width: 100%;
+	background-color: #FFFFFF;
+	border-radius: 10rpx;
+	margin-top: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.topTwo,.topThree{
+	height: 300rpx;
+	width: 223rpx;
+}
+.topTwo,.topOne ._div{
+	font-size: 32rpx;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 10rpx;
+}
+.topTwo ._div:nth-of-type(2){
+	font-size: 24rpx;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 20rpx;
+}
+.topOne ._div:nth-of-type(2){
+	font-size: 24rpx;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 54rpx;
+}
+.topOne{
+	border: 2rpx solid #F0F0F0;
+	height: 300rpx;
+	width: 224rpx;
+	margin-top: -30rpx;
+	border-radius: 10rpx;
+	background-color: #FFFFFF;
+	box-shadow: 4rpx 2rpx 5rpx #F0F0F0;
+}
+.hotSchoolLogo{
+	width: 100%;
+	height: 120rpx;
+	position: relative;
+}
+.topImg{
+	width: 100rpx; 
+	height: 100rpx;
+	position: absolute;
+	border-radius: 50%;
+	left: 30%;
+	top: 30%;
+}
+.topImgBack{
+	position: absolute;
+	width: 120rpx;
+	height: 120rpx;
+	left: 25%;
+	top: -5.5%;
+}
+.twoImgBack{
+	position: absolute;
+	width: 120rpx;
+	height: 120rpx;
+	left: 25%;
+	top: -5.5%;
+}
+.topTwoImg{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	position: absolute;
+	left: 30%;
+	top: 30%;
+}
+.shccolName{
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	padding: 0rpx 20rpx;
+}
+.secondImgBack{
+	position: absolute;
+	width: 120rpx;
+	height: 120rpx;
+	left: 25%;
+	top: -5.5%;
+}
+.otherItem{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-bottom: 30rpx;
+}
+.schoolLogo{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	margin-left: 40rpx;
+}
+.otherItem_l{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.otherItem_l ._span{
+	font-size: 30rpx;
+	font-weight: 200;
+	margin-left: 20rpx;
+}
+.otherItem_l ._span:first-child{
+	width: 50rpx;
+	margin-left: 0;
+}
+.otherItem_r{
+	font-size: 26rpx;
+	color: #C0C4CC;
+	line-height: 40rpx;
+}
+.icon-huomiao{
+	margin-right: 10rpx;
+	font-size: 36rpx;
+}
+.icon-dianzan{
+	/* color: #44A1FF; */
+	margin-left: 6rpx;
+}
+.icon-iconset0445{
+	margin-left: 10rpx;
+	color: #44A1FF;
+	font-size: 36rpx;
+	-webkit-animation: font-size .5s ease-in-out forwards;
+	        animation: font-size .5s ease-in-out forwards;
+}
+@-webkit-keyframes font-size {
+0%{-webkit-transform:rotate(0deg) scale(0)
+}
+25%{-webkit-transform:rotate(30deg) scale(0.2)
+}
+50%{-webkit-transform:rotate(-20deg) scale(0.5)
+}
+75%{-webkit-transform:rotate(20deg) scale(0.8)
+}
+100%{-webkit-transform:rotate(5deg) scale(1)
+}
+}
+@keyframes font-size {
+0%{-webkit-transform:rotate(0deg) scale(0)
+}
+25%{-webkit-transform:rotate(30deg) scale(0.2)
+}
+50%{-webkit-transform:rotate(-20deg) scale(0.5)
+}
+75%{-webkit-transform:rotate(20deg) scale(0.8)
+}
+100%{-webkit-transform:rotate(5deg) scale(1)
+}
+}
+

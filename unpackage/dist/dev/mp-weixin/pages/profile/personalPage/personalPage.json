@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "个人主页",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "vip-icon": "/components/vipIcon",
+    "timer": "/components/timer",
+    "sliding-notice": "/components/slidingNotice"
+  }
+}

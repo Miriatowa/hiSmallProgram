@@ -1,0 +1,29 @@
+
+.index.data-v-0b04a273{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.h_title.data-v-0b04a273{
+	height: 100rpx;
+	line-height: 100rpx;
+	color: #303133;
+}
+.h_item.data-v-0b04a273{
+	height: 80rpx;
+	line-height: 80rpx;
+	color: #606266;
+}
+.h_item.data-v-0b04a273:last-child{
+	padding-bottom: 30rpx;
+	border-bottom: 2rpx solid #F2F6FC;
+}
+.m_textarea.data-v-0b04a273{
+	background-color: #f3f3f3;
+	margin-top: 20rpx;
+	padding: 20rpx 0 0 20rpx;
+	width: 100%;
+}
+.main.data-v-0b04a273{
+	margin-bottom: 110rpx;
+}
+

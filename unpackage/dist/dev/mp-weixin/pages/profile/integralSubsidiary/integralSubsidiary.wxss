@@ -1,0 +1,96 @@
+
+.backImg.data-v-cd57f480{
+	width: 100%;
+	height: 250rpx;
+	position: relative;
+}
+.midBox.data-v-cd57f480{
+	width: 670rpx;
+	border-radius: 20rpx;
+	background-color: #FFFFFF;
+	position: absolute;
+	left: 40rpx;
+	top: 170rpx;
+	box-shadow: 0rpx 0rpx 20rpx #E5E5E5;
+	margin-bottom: 50rpx;
+}
+.midBoxTitle.data-v-cd57f480{
+	height: 70rpx;
+	line-height: 80rpx;
+	margin-left: 40rpx;
+	/* text-align: center; */
+}
+.midBoxTitle ._span.data-v-cd57f480{
+	color: #feb509;
+	margin: 0rpx 40rpx 0rpx 5rpx;
+}
+.midBoxTitle ._span.data-v-cd57f480:nth-child(2){
+	color: #909399;
+}
+.midBoxTop.data-v-cd57f480{
+	width: 670rpx;
+	position: absolute;
+	left: 40rpx;
+	top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.midBoxTop ._div.data-v-cd57f480:nth-child(2){
+	color: #FFFFFF;
+	width: 130rpx;
+	height: 40rpx;
+	font-size: 22rpx;
+	background-color: #4a8ec0;
+	line-height: 40rpx;
+	text-align: center;
+	border-radius: 20rpx;
+}
+.midBoxTop ._div.data-v-cd57f480:first-child{
+	color: #FFFFFF;
+	font-size: 80rpx;
+}
+.integralItem.data-v-cd57f480{
+	width: 590rpx;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 150rpx;
+	border-bottom: 2rpx solid #EEEEEE;
+}
+.integralItem.data-v-cd57f480:last-child{
+	border-bottom: none;
+	padding-bottom: 30rpx;
+}
+.integralItem ._div ._div.data-v-cd57f480:first-child{
+	color: #606266;
+}
+.integralItem ._div ._div.data-v-cd57f480:nth-child(2){
+	color: #C0C4CC;
+	font-size: 22rpx;
+	margin-top: 20rpx;
+}
+.integralItem ._div.data-v-cd57f480:nth-child(2){
+	color: #feb509;
+}
+.bottomText.data-v-cd57f480{
+	text-align: center;
+	height: 80rpx;
+	line-height: 80rpx;
+	font-size: 24rpx;
+	color: #C0C4CC;
+}
+

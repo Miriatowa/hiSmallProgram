@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "周边",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "sliding-notice": "/components/slidingNotice"
+  }
+}

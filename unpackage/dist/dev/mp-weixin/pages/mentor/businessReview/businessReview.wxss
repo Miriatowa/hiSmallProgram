@@ -1,0 +1,114 @@
+
+.swiper.data-v-dae81acc {
+	height: 250rpx;
+	width: 670rpx;
+	margin: 20rpx auto 40rpx;
+}
+.swiper image.data-v-dae81acc {
+	width: 100%;
+	height: 250rpx;
+	border-radius: 16rpx;
+}
+.screeningTags.data-v-dae81acc{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 670rpx;
+	margin: 0 auto;
+	padding-bottom: 20rpx;
+}
+.screeningTags picker.data-v-dae81acc{
+	background-color: #f5f5f5;
+	margin-right: 20rpx;
+	text-align: center;
+	padding: 0rpx 10rpx;
+	border-radius: 10rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	color: #909399;
+}
+.icon-youxiatianchong.data-v-dae81acc{
+	display: inline;
+	font-size: 10rpx;
+	margin-left: 5rpx;
+}
+.companyCard.data-v-dae81acc{
+	border-bottom: 12rpx solid #eeeeee;
+}
+.companyCard.data-v-dae81acc:first-child{
+	border-top: 2rpx solid #eeeeee;
+}
+.cardLayout.data-v-dae81acc{
+	width: 670rpx;
+	margin: 20rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.cardLayout  image.data-v-dae81acc{
+	width: 150rpx;
+	height: 150rpx;
+	margin-right: 20rpx;
+}
+.cardRight.data-v-dae81acc{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.cardRight ._div.data-v-dae81acc:nth-child(2){
+	font-size: 24rpx;
+	color: #909399;
+	margin-top: 10rpx;
+}
+.cardRight ._div.data-v-dae81acc:nth-child(3){
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 24rpx;
+	color: #909399;
+	margin-top: 10rpx;
+}
+.cardRight ._div:nth-child(3) image.data-v-dae81acc{
+	width: 130rpx;
+	height: 22rpx;
+}
+.cardRight ._div:nth-child(3) ._span.data-v-dae81acc{
+	font-size: 22rpx;
+	color: #ffb530;
+	margin-left: 10rpx;
+	margin-right: 10rpx;
+}
+.cardRight ._div.data-v-dae81acc:nth-child(4){
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.reviewBtn.data-v-dae81acc{
+	width: 80rpx;
+	height: 32rpx;
+	border-top-left-radius: 16rpx;
+	border-bottom-right-radius: 16rpx;
+	border-top-right-radius: 4rpx;
+	border-bottom-left-radius: 4rpx;
+	margin-right: 6rpx;
+	margin-top: 14rpx;
+	background-color: #44a1ff;
+	color: #ffffff;
+	font-size: 22rpx;
+	line-height: 32rpx;
+	text-align: center;
+}
+.reviewContent.data-v-dae81acc{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	overflow : hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+

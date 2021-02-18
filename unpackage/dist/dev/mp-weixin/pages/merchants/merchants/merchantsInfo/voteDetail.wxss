@@ -1,0 +1,40 @@
+
+.voteCard.data-v-2ea3f81c{
+	background-color: #fafafa;
+	margin-top: 20rpx;
+	padding-left: 15rpx;
+	border-radius: 4px;
+}
+.card_title.data-v-2ea3f81c{
+	height: 80rpx;
+	line-height: 80rpx;
+	font-size: 28rpx;
+	padding-left: 10rpx;
+}
+.card_school.data-v-2ea3f81c{
+	font-size: 24rpx;
+	color: #C0C4CC;
+}
+.card_selItem.data-v-2ea3f81c{
+	height: 80rpx;
+	line-height: 80rpx;
+	border-bottom: 2rpx solid #EEEEEE;
+	padding-left: 10rpx;
+}
+.card_progress.data-v-2ea3f81c{
+	font-size: 26rpx;
+	padding-left: 10rpx;
+	padding-right: 10rpx;
+	color: #909399;
+}
+.voteBtn.data-v-2ea3f81c{
+	width: 670rpx;
+	margin: 0 auto;
+	background-color: #44A1FF;
+	color: #FFFFFF;
+	margin-top: 60rpx;
+}
+button.data-v-2ea3f81c:after {
+    border: none;
+}
+

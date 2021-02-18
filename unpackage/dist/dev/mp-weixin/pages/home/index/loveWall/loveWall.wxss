@@ -1,0 +1,98 @@
+
+.index.data-v-69c7497b {
+	width: 670rpx;
+	margin: 0 auto;
+}
+.head.data-v-69c7497b {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 270rpx;
+	margin-top: 30rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	/* align-items: center; */
+}
+.select.data-v-69c7497b {
+	width: 30rpx;
+	height: 6rpx;
+	border-radius: 5rpx;
+	background-color: #f3ace7;
+	margin: 6rpx auto;
+}
+.noSelect.data-v-69c7497b {
+	border-bottom: 2rpx solid #f3ace7;
+}
+.mainItem.data-v-69c7497b {
+	border-bottom: 10rpx solid #EEEEEE;
+}
+.mainItem.data-v-69c7497b:last-child {
+	border: none;
+}
+.itemSchool.data-v-69c7497b {
+	width: 200rpx;
+	height: 40rpx;
+	border-radius: 20rpx;
+	background-color: #eaeff5;
+	font-size: 20rpx;
+	text-align: center;
+	line-height: 40rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.itemTo.data-v-69c7497b {
+	color: #f3ace7;
+	font-weight: 600;
+	padding-top: 20rpx;
+	border-top: 2rpx solid #EEEEEE;
+}
+.itemContent.data-v-69c7497b {
+	font-size: 28rpx;
+	color: #909399;
+	margin: 20rpx 0rpx;
+}
+.itemImage.data-v-69c7497b {
+	width: 210rpx;
+	height: 210rpx;
+	margin-right: 10rpx;
+}
+.publishBtn.data-v-69c7497b {
+	width: 120rpx;
+	height: 120rpx;
+	text-align: center;
+	font-size: 20rpx;
+	color: #FFFFFF;
+	border-radius: 50%;
+	background-image: -webkit-linear-gradient(top left, #fcb66b, #fe5cb6);
+	background-image: linear-gradient(to bottom right, #fcb66b, #fe5cb6);
+	position: fixed;
+	right: 0;
+	bottom: 100rpx;
+}
+.icon-xihuan.data-v-69c7497b {
+	font-size: 50rpx;
+	line-height: 70rpx;
+}
+.icon-didian.data-v-69c7497b {
+	display: inline;
+	margin-right: 5rpx;
+	color: #f3ace7;
+	font-size: 20rpx;
+}
+.icon-dianzan_.data-v-69c7497b {
+	margin-right: 10rpx;
+}
+.giveLike.data-v-69c7497b {
+	margin-bottom: 30rpx;
+	color: #345e87;
+	font-size: 26rpx;
+}
+.noMOreTips.data-v-69c7497b {
+	text-align: center;
+	margin-top: 10rpx;
+	font-size: 24rpx;
+	color: #C0C4CC;
+}
+

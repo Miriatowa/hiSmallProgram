@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的导师",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "head-select": "/components/headSelect",
+    "search": "/components/uni-search-bar/uni-search-bar",
+    "info-card": "/components/infoCard"
+  }
+}

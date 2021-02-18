@@ -1,0 +1,23 @@
+
+.main.data-v-24164077{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.flexBox.data-v-24164077{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	height: 80rpx;
+	line-height: 80rpx;
+}
+.selectItem.data-v-24164077{
+	border-bottom: 4rpx solid #44a1ff;
+	text-align: center;
+	color: #44A1FF;
+}
+.noSelectItem.data-v-24164077{
+	text-align: center;
+}
+

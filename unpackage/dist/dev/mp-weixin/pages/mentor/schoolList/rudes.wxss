@@ -1,0 +1,14 @@
+
+.rudes.data-v-12980af7{
+	width: 670rpx;
+	margin: 0 auto ;
+	font-size: 28rpx;
+}
+.rudeTop.data-v-12980af7{
+	margin: 100rpx 0 30rpx;
+	font-weight: 600;
+}
+.rudeItem.data-v-12980af7{
+	margin: 20rpx 0rpx ;
+}
+

@@ -1,0 +1,47 @@
+
+.main.data-v-647ea219{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.flexBox.data-v-647ea219{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 150rpx;
+}
+.avatarImg.data-v-647ea219{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	margin-right: 20rpx;
+}
+.nickNameBox.data-v-647ea219{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.nickNameBox ._div.data-v-647ea219{
+	font-size: 28rpx;
+}
+.icon-nan.data-v-647ea219{
+	color: #44a1ff;
+	display: inline;
+	margin-left: 10rpx;
+	font-size: 26rpx;
+}
+.icon-nv.data-v-647ea219{
+	display: inline;
+	color: #f56df0;
+	margin-left: 10rpx;
+	font-size: 26rpx;
+}
+

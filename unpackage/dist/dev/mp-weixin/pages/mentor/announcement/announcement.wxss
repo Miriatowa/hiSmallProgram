@@ -1,0 +1,44 @@
+
+.container_1.data-v-df5a938c{
+	width: 670rpx;
+	margin: 20rpx auto 0rpx;
+	height: 340rpx;
+	background-image: url('https://pic.job2020.cn/%E6%B4%BB%E5%8A%A8_2.png');
+	background-position: left top;  
+	background-size:100% 100%;
+	border-radius: 10rpx;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.container_2.data-v-df5a938c{
+	width: 670rpx;
+	margin: 20rpx auto 0rpx;
+	height: 340rpx;
+	background-image: url('https://pic.job2020.cn/%E6%B4%BB%E5%8A%A8_1.jpg');
+	background-position: left top;  
+	background-size:100% 100%;
+	border-radius: 10rpx;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.cardTop.data-v-df5a938c{
+	color: #666666;
+	text-align: center;
+	margin-top: 20rpx;
+	font-size: 28rpx;
+}
+.icon-gonggao.data-v-df5a938c{
+	color: #c83f55;
+	margin-right: 5rpx;
+}
+.cardBottom.data-v-df5a938c{
+	position: absolute;
+	right: 20rpx;
+	bottom: 20rpx;
+	color: #666666;
+	font-size: 24rpx;
+}
+.icon-liulan.data-v-df5a938c{
+	margin-right: 5rpx;
+}
+

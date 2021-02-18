@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "答题",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mask": "/components/mask"
+  }
+}

@@ -1,0 +1,182 @@
+
+.backImg.data-v-b7a954c0{
+	width: 100%;
+	height: 250rpx;
+	position: relative;
+}
+.midBox.data-v-b7a954c0{
+	width: 670rpx;
+	height: 470rpx;
+	border-radius: 20rpx;
+	background-color: #FFFFFF;
+	position: absolute;
+	left: 40rpx;
+	top: 150rpx;
+	box-shadow: 0rpx 0rpx 20rpx #E5E5E5;
+}
+.midBoxTop.data-v-b7a954c0{
+	margin-left: 280rpx;
+}
+.avatarImg.data-v-b7a954c0{
+	width: 110rpx;
+	height: 110rpx;
+	border-radius: 50%;
+	margin-top: -55rpx;
+}
+.integralIcon.data-v-b7a954c0{
+	color: #feb400;
+	font-size: 46rpx;
+}
+.integralIcon image.data-v-b7a954c0{
+	width: 32rpx;
+	height: 32rpx;
+}
+.integralDetail.data-v-b7a954c0{
+	font-size: 24rpx;
+	color: #909399;
+}
+.icon-xiangyou1.data-v-b7a954c0{
+	font-size: 22rpx;
+	margin-left: 6rpx;
+	color: #909399;
+}
+.flexBox.data-v-b7a954c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.hasSign.data-v-b7a954c0{
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 50%;
+	border: 2rpx solid #EEEEEE;
+	text-align: center;
+	line-height: 60rpx;
+	font-size: 28rpx;
+	color: #ffffff;
+	margin-top: 50rpx;
+	background-color: #44a1ff;
+}
+.noSign.data-v-b7a954c0{
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 50%;
+	border: 2rpx solid #EEEEEE;
+	text-align: center;
+	line-height: 60rpx;
+	font-size: 28rpx;
+	color: #909399;
+	margin-top: 50rpx;
+}
+.signInItem ._div.data-v-b7a954c0:nth-child(2){
+	font-size: 20rpx;
+	color: #606266;
+	text-align: center;
+	margin-top: 10rpx;
+}
+.signBtn.data-v-b7a954c0{
+	width: 560rpx;
+	margin: 40rpx auto 0;
+	height: 80rpx;
+	line-height: 80rpx;
+	background-color: #44A1FF;
+	border-radius: 40rpx;
+	text-align: center;
+	color: #FFFFFF;
+}
+.hasSignBtn.data-v-b7a954c0{
+	width: 560rpx;
+	margin: 40rpx auto 0;
+	height: 80rpx;
+	line-height: 80rpx;
+	background-color: #d9d9d8;
+	border-radius: 40rpx;
+	text-align: center;
+	color: #FFFFFF;
+}
+.task.data-v-b7a954c0{
+	width: 670rpx;
+	margin: 420rpx auto 0;
+}
+.invitate.data-v-b7a954c0{
+	width: 670rpx;
+	margin: 50rpx auto 50rpx;
+}
+.taskRitle.data-v-b7a954c0{
+	margin-bottom: 50rpx;
+	color: #303133;
+	font-weight: 600;
+}
+.taskItem.data-v-b7a954c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 188rpx;
+	border-radius: 20rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	box-shadow: 0 0 10rpx #EEEEEE;
+	margin-top: 10rpx;
+}
+.taskItemLeft.data-v-b7a954c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.taskItemLeft image.data-v-b7a954c0{
+	width: 72rpx;
+	height: 72rpx;
+	margin-left: 10rpx;
+	margin-right: 10rpx;
+}
+.taskItem_l_r_t.data-v-b7a954c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	color: #303133;
+}
+.taskItem_l_r_t ._div.data-v-b7a954c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 22rpx;
+	color: #feb400;
+	margin-left: 10rpx;
+}
+.taskItem_l_r_t ._div image.data-v-b7a954c0{
+	width: 30rpx;
+	height: 30rpx;
+}
+.taskItem_l_r_b.data-v-b7a954c0{
+	font-size: 24rpx;
+	color: #909399;
+	margin-top: 10rpx;
+}
+.toCompleteBtn.data-v-b7a954c0{
+	height: 60rpx;
+	width: 145rpx;
+	text-align: center;
+	line-height: 60rpx;
+	border-radius: 36rpx;
+	border: 2rpx solid  #44A1FF;
+	font-size: 28rpx;
+	color: #44A1FF;
+	margin-right: 10rpx;
+	background-color: #ffffff;
+}
+

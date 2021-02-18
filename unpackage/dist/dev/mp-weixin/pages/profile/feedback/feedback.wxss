@@ -1,0 +1,53 @@
+
+.back.data-v-b7769580{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.item.data-v-b7769580{
+	font-size: 24rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+}
+.icon-liuyan.data-v-b7769580{
+	margin-right: 20rpx;
+}
+.qCode.data-v-b7769580{
+	width: 670rpx;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50rpx;
+}
+.pointBox.data-v-b7769580{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-top: 50rpx;
+}
+.point.data-v-b7769580{
+	width: 10rpx;
+	height: 10rpx;
+	border-radius: 50%;
+	background-color: #909399;
+	margin-right: 10rpx;
+}
+.quare.data-v-b7769580{
+	width: 30rpx;
+	height: 10rpx;
+	border-radius: 5rpx;
+	background-color: #44A1FF;
+	margin-right: 10rpx;
+}
+.qCodeImg.data-v-b7769580{
+	width: 400rpx;
+	height: 400rpx;
+	margin-top: 50rpx;
+}
+.tips.data-v-b7769580{
+	font-size: 24rpx;
+	color: #909399;
+	margin-top: 50rpx;
+}
+

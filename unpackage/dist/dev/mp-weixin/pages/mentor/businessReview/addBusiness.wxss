@@ -1,0 +1,83 @@
+
+.main{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.f_item{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 100rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #303133;
+	border-bottom: 2rpx solid #EEEEEE;
+}
+.f_textarea{
+	height: 300rpx;
+	border-bottom: none;
+}
+.f_item label{
+	/* font-weight: 600; */
+	color: #606266;
+	font-size: 28rpx;
+}
+.f_item input,picker{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	margin-left: 50rpx;
+	color: #606266;
+	font-size: 28rpx;
+}
+.f_item textarea{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 200rpx;
+	margin-left: 30rpx;
+	padding: 15rpx 10rpx;
+	outline: auto;
+	outline-color: #E4E7ED;
+	border-radius: 10rpx;
+	color: #606266;
+	font-size: 28rpx;
+}
+.f_ava {
+	height: 150rpx;
+	width: 100%;
+	border-bottom: 2rpx solid #eee;
+}
+.avaBox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.avaBox image {
+	width: 120rpx;
+	height: 120rpx;
+	background-color: #e9d4d3;
+	border-radius: 20rpx;
+	margin-right: 10rpx;
+}
+.addBtn{
+	margin-top: 50rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #44A1FF;
+	border-radius: 15rpx;
+	width: 670rpx;
+}
+input::input-placeholder{
+	color:#C0C4CC
+}
+

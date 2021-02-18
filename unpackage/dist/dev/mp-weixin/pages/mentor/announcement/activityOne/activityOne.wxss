@@ -1,0 +1,183 @@
+
+.main.data-v-4fafa408 {
+	width: 100%;
+	height: 1700rpx;
+	background-image: url("https://pic.job2020.cn/%E6%B4%BB%E5%8A%A8%E8%83%8C%E6%99%AF.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: left top;
+	background-size: 100% 100%;
+}
+.rules.data-v-4fafa408 {
+	display: inline-block;
+	width: 120rpx;
+	height: 35rpx;
+	border-radius: 17.5rpx;
+	margin-left: 600rpx;
+	margin-top: 50rpx;
+	font-size: 22rpx;
+	text-align: center;
+	line-height: 35rpx;
+	color: #ff5b4f;
+	background-color: #344a4a;
+}
+.rules.data-v-4fafa408::before {
+	content: '';
+	height: 50rpx;
+}
+.backImg.data-v-4fafa408 {
+	position: relative;
+}
+.content.data-v-4fafa408 {
+	position: absolute;
+	left: 40rpx;
+	top: 570rpx;
+	width: 670rpx;
+	margin: 0 auto;
+}
+.chartImg.data-v-4fafa408 {
+
+	display: -webkit-box;
+
+	display: -webkit-flex;
+
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.imageWrap.data-v-4fafa408 {
+	position: relative;
+}
+.imageItem.data-v-4fafa408 {
+	width: 160rpx;
+	height: 160rpx;
+	margin-right: 7rpx;
+	margin-top: 20rpx;
+}
+.imageItem.data-v-4fafa408:nth-child(4n) {
+	margin-right: 0rpx;
+}
+.noImageNum.data-v-4fafa408 {
+	display: none;
+	position: absolute;
+}
+.imageNum.data-v-4fafa408 {
+	position: absolute;
+	right: 0rpx;
+	top: 20rpx;
+	font-size: 22rpx;
+	width: 40rpx;
+	height: 40rpx;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 40rpx;
+	border: 4rpx solid #ffbd8d;
+	background-color: #d73125;
+	color: #ffbd8d;
+}
+.myRecords.data-v-4fafa408 {
+	margin-top: 30rpx;
+	font-size: 28rpx;
+	text-align: center;
+	color: #feaa6a;
+}
+.strategy.data-v-4fafa408 {
+	margin-top: 50rpx;
+	width: 100%;
+	background-image: url("https://pic.job2020.cn/%E6%94%BB%E7%95%A5.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: left top;
+	background-size: 100% 100%;
+}
+.strategyItem.data-v-4fafa408 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 620rpx;
+	height: 80rpx;
+	margin-left: 35rpx;
+	margin-bottom: 16rpx;
+}
+.strategyItem.data-v-4fafa408:first-child {
+	padding-top: 80rpx;
+}
+.strategyItem.data-v-4fafa408:last-child {
+	padding-bottom: 50rpx;
+}
+.strategyItem_l.data-v-4fafa408 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.strategyItem_l image.data-v-4fafa408 {
+	width: 80rpx;
+	height: 80rpx;
+	margin-right: 20rpx;
+}
+.strategyItem_lr ._div.data-v-4fafa408:first-child {
+	color: #ff8d47;
+	font-size: 26rpx;
+}
+.strategyItem_lr ._div.data-v-4fafa408:nth-child(2) {
+	margin-top: 10rpx;
+	font-size: 22rpx;
+}
+.strategyItem_r.data-v-4fafa408 {
+	height: 40rpx;
+	line-height: 40rpx;
+	padding: 5rpx 25rpx;
+	border-radius: 20rpx;
+	background-color: #ff8f49;
+	color: #ffffff;
+	font-size: 22rpx;
+	margin-right: 20rpx;
+}
+.ms_title.data-v-4fafa408 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: relative;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.ms_tiItem.data-v-4fafa408 {
+	width: 33.3%;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	border-bottom: 2rpx solid #DCDFE6;
+	border-right: 2rpx solid #DCDFE6;
+}
+.ms_img.data-v-4fafa408 {
+	width: 100rpx;
+	height: 100rpx;
+}
+.ms_tiItem.data-v-4fafa408:last-child {
+	border-right: none;
+}
+.ms_time.data-v-4fafa408 {
+	margin-right: 20rpx;
+	font-size: 28rpx;
+	color: #909399;
+	width: 220rpx;
+	text-align: center;
+}
+.icon-shanchu.data-v-4fafa408 {
+	padding: 10rpx;
+	font-size: 36rpx;
+	position: fixed;
+	right: 10rpx;
+	top: 10rpx;
+}
+

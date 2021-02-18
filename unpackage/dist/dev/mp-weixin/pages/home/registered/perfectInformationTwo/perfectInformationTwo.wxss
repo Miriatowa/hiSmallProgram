@@ -1,0 +1,66 @@
+
+.formBox.data-v-d7e9e0f6{
+	width: 670rpx;
+	margin: 0 auto;
+}
+.mesAva.data-v-d7e9e0f6{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-weight: 200;
+}
+.avaBox.data-v-d7e9e0f6{
+	width: 110rpx;
+	height: 110rpx;
+	border-radius: 50%;
+	border: 2rpx solid #eee;
+	padding: 5rpx;
+	box-shadow: 0 0 10px #ddd;
+	text-align: center;
+	line-height: 110rpx;
+}
+.avaBox icon.data-v-d7e9e0f6{
+	color: #44A1FF;
+	font-weight: 500;
+	font-size: 36rpx;
+}
+.mesItem.data-v-d7e9e0f6{
+	font-weight: 200;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 120rpx;
+	width: 100%;
+	border-bottom: 2rpx solid #eee;
+}
+.btnBox.data-v-d7e9e0f6{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 20rpx;
+}
+.btn.data-v-d7e9e0f6{
+	width: 220rpx;
+	height: 80rpx;
+	background-color: #e4f0fc;
+	color: #44a1ff;
+	border-radius: 10rpx;
+	text-align: center;
+	line-height: 80rpx;
+	margin-top: 50rpx;
+}
+
